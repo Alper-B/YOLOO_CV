@@ -19,6 +19,6 @@ hackaton2025
 	- We employed early stop ,which saves the model that achieves the best validation score in the course of the training. The thing that performed best was to just let the model train for a very long time.
 - Evaluation
 	- We mainly compared average Dice scores of our different models to pick the best one.
- -Usage
-	-main_submission.py is the main file that used to train the model.
-	-eval.py is the python script that used to evaluate the models
+- # Usage
+	- main_submission.py is the main file that used to train the model.
+	- eval.py is the python script that used to evaluate the models
